@@ -1,0 +1,3 @@
+# site settings, including the database password
+config.sh
+*.log
